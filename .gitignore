@@ -44,6 +44,7 @@ env/
 *.docx
 *.xlsx
 *.png
+!architecture.png
 *.jpg
 *.jpeg
 chroma_db/
